@@ -4,7 +4,7 @@
 [![Flutter](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png)](https://flutter.dev/showcase)
 
 
-Panel+ is a demo admin panel app demonstrating my UI design skills with Flutter. Utilizing the modern Neumorphic design language I set a goal of acheiving a slick and modern look different to the well known native design trends. The dark look focuses more on the content and is easier on the eyes. The colors used for the graphs have been chosen to clearly differentiate the data and stand out from the background. Panel+ is optimized for varying screen sizes including phones (portraint and landscape), tablets and web.
+Panel+ is a demo admin panel app demonstrating my UI design skills with Flutter. Utilizing the modern Neumorphic design language I set a goal of achieving a slick and modern look different to the well-known native design trends. The dark look focuses more on the content and is easier on the eyes. The colors used for the graphs have been chosen to clearly differentiate the data and stand out from the background. Panel+ is optimized for varying screen sizes including phones (portrait and landscape), tablets and web.
 
 [![Panel+Phone](https://i.ibb.co/znsy7ZB/Group-4.png)](https://i.ibb.co/znsy7ZB/Group-4.png)
 
