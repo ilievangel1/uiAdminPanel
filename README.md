@@ -32,7 +32,7 @@ The Panel+ app is built with Flutter and its plugins.
 
 ## Installation
 
-Panel+ requires [Flutter](https://flutter.dev/showcase) v2.5.3 to run.
+Panel+ requires [Flutter](https://flutter.dev/showcase) v2.8.1 to run.
 
 Clone the repository and run:
 
